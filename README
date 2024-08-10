@@ -1,9 +1,12 @@
-README
+Contains:
 
+scoring:
 A project to analyze scoring performance of players in the top five soccer leagues
 using advanced scoring statistics.
-
 The project uses a Jupyter Notebook.
-
 Data from Opta via fbref.com.
 
+goalkeeping:
+A project to analyze goalkeepers using advanced goalkeeping statistics.
+The project uses Jupyter Notebook.
+Data sourced from Opta, using fbref.com.
